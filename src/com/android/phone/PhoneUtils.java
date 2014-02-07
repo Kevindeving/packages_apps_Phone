@@ -1995,8 +1995,6 @@ public class PhoneUtils {
         }
     }
 
-<<<<<<< HEAD
-=======
     /**
      * Reset the audio stream volume to fix the low in-call volume bug.
      *
@@ -2050,7 +2048,6 @@ public class PhoneUtils {
         }
     }
 
->>>>>>> c61933b... Phone: Reset volume stream for low volume in call bug
     /**
      *
      * Mute / umute the foreground phone, which has the current foreground call
